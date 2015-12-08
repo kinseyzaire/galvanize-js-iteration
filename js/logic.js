@@ -10,3 +10,10 @@ Hints for the first problem:
 NOTE: you can use a `for` loop to make this happen.
 
 */
+var sum = function(options){
+   var count = 0;
+   for (var i = 0; i < options.length; i++) {
+      count += parseInt(options[i].value);
+   }
+      return count;
+}
