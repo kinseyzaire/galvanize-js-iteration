@@ -1,0 +1,9 @@
+{
+  "firebase": "js-js-js-js-iteration-kinsey",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
